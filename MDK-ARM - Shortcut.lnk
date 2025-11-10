@@ -1,0 +1,9 @@
+
+
+#include "stm32f407xx.h"
+#include "string.h"
+#include "stdlib.h"
+
+extern int pwm;
+extern int status;
+
