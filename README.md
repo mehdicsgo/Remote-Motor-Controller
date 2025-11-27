@@ -18,4 +18,4 @@
 دیوتی سایکل موتور را مشخص می‌کند که توسط اپلیکیشن واسط و از طریق ارتباط بولوتوث
 به میکرو ارسال می‌شود.
 
-![](https://github.com/mehdicsgo/Remote-Motor-Controller/blob/main/ezgif-66a77dfc00c38a61.gif)
+![https://github.com/mehdicsgo/Remote-Motor-Controller/blob/main/ezgif-66a77dfc00c38a61.gif]()
